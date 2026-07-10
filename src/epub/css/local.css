@@ -8,20 +8,12 @@
 	text-align: center;
 }
 
-[epub|type~="z3998:hymn"] hgroup p,
-[epub|type~="z3998:poem"] hgroup p,
-[epub|type~="z3998:song"] hgroup p,
-[epub|type~="z3998:verse"] hgroup p{
-	text-align: center;
-}
-
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
