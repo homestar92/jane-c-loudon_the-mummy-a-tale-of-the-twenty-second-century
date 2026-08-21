@@ -14,7 +14,7 @@
 	</file>
 	<file path="chapter-18.xhtml">
 		<ignore code="t-003">
-			<line>48</line>
+			<line>49</line>
 			<reason>Dialogue continues in next p tag</reason>
 		</ignore>
 	</file>
@@ -26,7 +26,7 @@
 	</file>
 	<file path="chapter-28.xhtml">
 		<ignore code="t-003">
-			<line>145</line>
+			<line>146</line>
 			<reason>Dialogue continues in next p tag</reason>
 		</ignore>
 	</file>
